@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/8065170/screenshots/15763728/media/816269976941069b592413035a7b04a5.png">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thang236&label=Profile%20views&color=0e75b6&style=flat" alt="thang236" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thang236" alt="thang236" /></a> </p>
 
