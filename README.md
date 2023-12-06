@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thag236&label=Profile%20views&color=0e75b6&style=flat" alt="thag236" /> </p>
-<a align = "right" href="/gif/code-lyoko-episode-64-double-trouble-4IWfHD" title="Code Lyoko Episode 64 Double Trouble"><img src="https://i.makeagif.com/media/3-06-2017/4IWfHD.gif" alt="Code Lyoko Episode 64 Double Trouble"></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thag236" alt="thag236" /></a> </p>
 
