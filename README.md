@@ -1,6 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Thăng</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+<h3 align="center">A passionate Mobile developer from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/8065170/screenshots/15763728/media/816269976941069b592413035a7b04a5.png">
 
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **FT TEAM**
 
-- 🌱 I’m currently learning **Back end**
+- 🌱 I’m currently learning **Android**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thang236](https://github.com/thang236)
 
